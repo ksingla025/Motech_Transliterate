@@ -26,6 +26,11 @@ Note :: The String returned will be a UTF-8 String, so take enough precaution wh
 
 
 Details about the system::
+
+this is a basic implementation of the paper:
+
+Lavanya, Prahallad, Prahallad Kishore, and Ganapa Thiraju Madhavi. "A simple approach for building transliteration editors for indian languages." Journal of Zhejiang University-Science A 6.11 (2005): 1354-1361.
+
 This is a rule based system which uses phoenetic mapping to transliterate from one language to another. Extending it is as simple as 
 mapping the sounds with the respective characters in the target language.
 The currently supported languages are ::
